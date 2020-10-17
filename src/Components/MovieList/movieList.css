@@ -1,0 +1,8 @@
+.cinetheque{
+    display:flex;
+    flex-wrap:wrap;
+    justify-content:space-around;
+}
+.form-control{
+ margin-bottom:5px;
+}
